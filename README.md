@@ -24,7 +24,7 @@ Backpropagation (backward propagation) is an important mathematical tool for imp
 3.Calculate the output for every neuron from the input layer, to the hidden layers, to the output layer.\
 4.Calculate the error in the outputs
 
-## Program:
+## Program:<br/>
 ```
 /*
 Program to implement random classification.
@@ -57,10 +57,10 @@ print(w)
 
 ```
 
-## Output:
-![Screenshot 2022-04-19 202109](https://user-images.githubusercontent.com/75235427/164038595-e2657066-cc81-447a-8cad-bbeb75e2df24.jpg)
+## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>Output:
+<br/>![Screenshot 2022-04-19 202109](https://user-images.githubusercontent.com/75235427/164038595-e2657066-cc81-447a-8cad-bbeb75e2df24.jpg)
 
 
 
-## Result:
+## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>Result:
 Thus the Back Propagation with Single Neuron was successfully implemented using python programming.
